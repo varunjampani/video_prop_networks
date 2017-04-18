@@ -1,0 +1,10 @@
+motorbike
+mallard-fly
+soapbox
+rollerblade
+horsejump-low
+mallard-water
+dance-twirl
+horsejump-high
+dog-agility
+flamingo

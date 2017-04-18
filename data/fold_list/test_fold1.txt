@@ -1,0 +1,10 @@
+parkour
+motocross-bumps
+surf
+hockey
+camel
+paragliding
+paragliding-launch
+train
+libby
+stroller
