@@ -1,5 +1,5 @@
 Cython==0.24
-Pillow==3.2.0
+Pillow==3.3.2
 PyYAML==3.11
 argparse==1.2.1
 cycler==0.10.0
